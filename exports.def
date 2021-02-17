@@ -1,0 +1,20 @@
+EXPORTS
+	SCardAccessStartedEvent
+	SCardCancel
+	SCardConnectA
+	SCardConnectW
+	SCardDisconnect
+	SCardEstablishContext
+	SCardFreeMemory
+	SCardGetStatusChangeA
+	SCardGetStatusChangeW
+	SCardIsValidContext
+	SCardListReadersA
+	SCardListReadersW
+	SCardReconnect
+	SCardReleaseContext
+	SCardReleaseStartedEvent
+	SCardStatusA
+	SCardStatusW
+	SCardTransmit
+	g_rgSCardT1Pci DATA
